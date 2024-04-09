@@ -43,3 +43,4 @@
 ### 实验六：Sentiment Analysis of IMDB Movie Reviews 云平台编程实战2
 
 目标：基于Kaggle云平台，实现IMDB影评情感分析
+by 张大帅
